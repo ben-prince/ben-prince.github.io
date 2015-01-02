@@ -3131,6 +3131,11 @@ object {
   }
 }
 
+.Footer {
+  height: 180px;
+  background-color: #404040;
+}
+
 /**
 *
 * Themed styles
